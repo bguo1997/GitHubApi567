@@ -4,4 +4,4 @@ python:
 
 # command to run tests
 script:
- - python -m unittest TestHW
+ - python -m unittest Test_get_commit
